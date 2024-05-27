@@ -1,0 +1,12 @@
+{
+    "artela_11822-1": {
+        "rpc_url": "",        
+        "prefix": "",
+        "faucet_mnemonic": "",
+        "denom": "",
+        "amount_to_send": ,
+        "gas_price": "",
+        "gas_amount": ,
+        "cooldown_seconds": 
+    }
+}
