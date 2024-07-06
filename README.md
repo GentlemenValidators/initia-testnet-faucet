@@ -1,4 +1,5 @@
-## Configuration Files Setup
+
+![Monitoring Image 2](https://github.com/GentlemenValidators/initia-testnet-faucet/blob/main/Screenshot_2.png)## Configuration Files Setup
 
 1. **Environment Variables**
    Copy the example environment variables file to create your own `.env` file.
